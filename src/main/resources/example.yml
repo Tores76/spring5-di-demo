@@ -1,0 +1,37 @@
+# this is a comment
+
+name: John
+
+names: # comment
+    - Paul
+    - George
+    - Ringo
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+false: no # No, FALSE, false
+
+string_val: " ' is a quote"
+
+colon_string: "My projects: one two three"
+
+includes_new_lines: |
+    multiple
+    lines
+    string
+
+ignore_new_lines: >
+    this is
+    a single line
+    string
+

@@ -1,0 +1,12 @@
+jms:
+    user: Tores
+    password: Ziri
+    dburl: www.minerva.com.my
+
+# file separator
+---
+
+spring:
+    profile: de
+jms:
+    user: Tores_in_German
